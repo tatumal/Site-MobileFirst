@@ -1,1 +1,17 @@
+:root {
+    --cor-de-fundo: #EBECEE;
+}
 
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: white;
+}
+.lista-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width: 60vw;
+}
