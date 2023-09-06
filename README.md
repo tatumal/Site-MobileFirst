@@ -26,4 +26,4 @@ basicamente é um projeto ensinando a fazermos um site com uma aparencia descent
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatumal&show_icons=true)
