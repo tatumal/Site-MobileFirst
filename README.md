@@ -1,5 +1,5 @@
 ## Olá, meu nome é <strong>{Juan}!</strong>
-> Faça uma breve aprensentação sobre você e a sua área.
+> o que é este projeto?.
 
  este projeto é do curso alura
 
