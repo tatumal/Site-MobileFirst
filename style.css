@@ -12,6 +12,10 @@
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
+    --fonte-secundario: "Josefin Sans";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body {
@@ -19,66 +23,4 @@ body {
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
-}
-
-h1 {
-    background-color: white;
-}
-.lista-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    width: 60vw;
-}
-:root {
-    --fonte-principal: "poppins";
-}
-body {
-    font-family: var(--fonte-principal);
-    font-weight: 400;
-}
-.lista-menu__titulo{
-    font-weight: 700;
-}
-.banner__pesquisa {
-    background-color: transparent;
-    border: 1px solid var(--branco);
-    color: var(--branco);
-    border-radius: 24px;
-    padding: 1em;
-    width: 100%;
-}
-
-.banner__pesquisa::placeholder {
-    font-family: var(--fonte-principal);
-    font-size: 14px;
-    font-weight: 400;
-    text-align: center;
-    color: var(--branco);
-    background: url("../img/Lupa.svg") no-repeat;
-    background-position: 1em;
-}
-.carrossel___titulo {
-    color:orange;
-    background-color:lightgray;
-    text-align:center;
-    text-transform:uppercase;
-    font-size:18px;
-    font-weight:700;
-    padding:2em 0 1em 0;
-}
-.swiper-button-prev, .swiper-button-next{
-    display:none;
-}
-.swiper-pagination{
-    position:initial
-}
-.swiper-pagination{
-    position:initial
-}
-.contato__email::placeholder {
-    font-family: var(--fonte-principal);
-    color: var(--azul);
-    background: url("../img/cartinha.svg") no-repeat;
-    padding-left: 2em;
 }
