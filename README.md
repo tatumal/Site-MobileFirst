@@ -3,7 +3,7 @@
 
  este projeto é do curso alura
 
-basicamente é um projeto ensinando a fazermos um site com uma aparencia descente.
+basicamente é um projeto ensinando a fazermos um site 
 
 ---
 
